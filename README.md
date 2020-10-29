@@ -6,5 +6,11 @@
 </ul>
 
 
-#Installation
-##Download the data
+# Installation
+
+
+### Download the data
+<ul>
+<li>Clone this repo to your computer</li>
+<li>Get into the folder using <code>cd Google-Play-The-Android-App-Market-</code></li>
+</ul>
